@@ -3,7 +3,7 @@ Hi, I'm Adil Masood Khan
 3rd-year Engineering student currently learning Python, Machine Learning, and C++.
 I’m still in the phase of building fundamentals and moving from tutorials to real projects. I’ve completed some working models (mostly guided) and recently built an offline language translator using MarianMT with heavy AI assistance. I’m trying to practice more independently — especially on Kaggle — and improve step by step.
 
-Currently learning **/ practicing
+Currently learning <!--/ practicing -->
 
 Python & basic Machine Learning (Scikit-learn, predictive models)
 
